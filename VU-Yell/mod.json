@@ -1,7 +1,7 @@
 {
 	"Name": "VUyell",
 	"Authors": ["Doc"],
-	"Description": "VUyell",
+	"Description": "Display text message + emoji's",
 	"Version": "1",
 	"HasWebUI": true,
 	"HasVeniceEXT": true
