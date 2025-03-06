@@ -1,0 +1,8 @@
+{
+	"Name": "VUyell",
+	"Authors": ["Doc"],
+	"Description": "VUyell",
+	"Version": "1",
+	"HasWebUI": true,
+	"HasVeniceEXT": true
+}
