@@ -1,1 +1,0 @@
-vuicc.exe "%cd%\ui" "ui.vuic"
