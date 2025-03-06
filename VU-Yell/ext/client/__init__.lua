@@ -6,7 +6,6 @@ end)
 NetEvents:Subscribe('VUyell', function(data)
 myPlayer=PlayerManager:GetLocalPlayer()
 splayer=tostring(data[1])
---print(myPlayer.name..' '..splayer)
 if myPlayer.name == splayer then
 local Execute = 'setyell("'..data[3]..'");'
     WebUI:ExecuteJS(Execute)
