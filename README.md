@@ -1,5 +1,5 @@
 # VU-Yell
-rcon command the show text messages + Emoji's</br>
+rcon command that shows text messages + Emoji's</br>
 use :-</br>
 in rcon console :-</br>
 VUyell ALLPLAYERS delay message | to send message to ALL Players.</br>
